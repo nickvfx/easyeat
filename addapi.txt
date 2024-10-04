@@ -8,3 +8,11 @@ www.digitalocean.com
 iplocation.io
 www.shopify.com
 www.whatismyip.com
+2606:4700:f4:34:a716:a828:f7b8:887e
+2606:4700:f4::7555:bf8f:fafb
+2606:4700:f4:0:67fb:624c:b521:8003
+2606:4700:f4::2a39:3869:be3d
+2606:4700:f4:0:677e:b85b:c87d:cff6
+2606:4700:f4::8d:1e87:c8e5
+2606:4700:f4:0:67fb:624c:b528:e82f
+2606:4700:f4:0:677e:6cb8:2bfc:b9e0
