@@ -4,6 +4,7 @@ import { connect } from 'cloudflare:sockets';
 let userID = '2e5803c9-fb02-4120-8086-83c487c2889a';
 let proxyIP = 'ProxyIP.JP.CMLiussss.net';
 let sub = 'SUB.CMLiussss.net';
+let ADDAPI = 'https://raw.githubusercontent.com/nickvfx/easyeat/refs/heads/main/addapi.txt';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
 let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvY29uZmlnL0FDTDRTU1JfT25saW5lX01pbmlfTXVsdGlNb2RlLmluaQ==');
 let subProtocol = 'https';
@@ -23,7 +24,7 @@ let go2Socks5s = [
 	'*.loadshare.org',
 ];
 let addresses = [];
-let addressesapi = 'https://raw.githubusercontent.com/nickvfx/easyeat/refs/heads/main/addapi.txt';
+let addressesapi = [];
 let addressesnotls = [];
 let addressesnotlsapi = [];
 let addressescsv = [];
